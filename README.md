@@ -1,11 +1,9 @@
-# Projeto Efeito Matrix
+# Matrix Effect Project
 
 ![alt text](https://github.com/alissonrangel/efeito-matrix/blob/main/matrix.png?raw=true)
 
-## veja no link abaixo
+## Matrix effect made with javascript
 
-[Efeito Matrix](https://www.site.alissonescorcio.life/efeito-matrix/index.html "Efeito Matrix")
+## Link to Site
 
-## conheça nossos jogos feitos como exercícos da DIO
-
-[Jogos](https://www.jogos.alissonescorcio.life/index.html "Jogos")
+[Efeito Matrix](https://alissonrangel.github.io/efeito-matrix/ "Efeito Matrix")
